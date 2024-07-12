@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "IKVM": {
+              "target": "Package",
+              "version": "[8.9.0, )"
+            },
             "Microsoft.DotNet.ILCompiler": {
               "suppressParent": "All",
               "target": "Package",
@@ -65,6 +69,14 @@
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.19.6, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.27.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.27.0, )"
             }
           },
           "imports": [

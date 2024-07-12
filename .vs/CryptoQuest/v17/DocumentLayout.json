@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|c:\\users\\akshayvm\\desktop\\cryptoquest\\cryptoquest\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|c:\\users\\akshayvm\\desktop\\cryptoquest\\cryptoquest\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|solutionrelative:backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|c:\\users\\akshayvm\\desktop\\cryptoquest\\cryptoquest\\backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|solutionrelative:backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|c:\\users\\akshayvm\\desktop\\cryptoquest\\cryptoquest\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|c:\\users\\akshayvm\\desktop\\cryptoquest\\cryptoquest\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|c:\\users\\akshayvm\\desktop\\cryptoquest\\cryptoquest\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|c:\\users\\akshayvm\\desktop\\cryptoquest\\cryptoquest\\assets\\scripts\\nftintegration\\nftmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|solutionrelative:assets\\scripts\\nftintegration\\nftmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|c:\\users\\akshayvm\\desktop\\cryptoquest\\cryptoquest\\assets\\scripts\\gamelogic\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10FFCA2D-D164-4A6D-AA2C-D3C4D4E3A6B3}|CryptoQuest.csproj|solutionrelative:assets\\scripts\\gamelogic\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:14:06.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Backend\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Backend\\Services\\UserService.cs",
@@ -75,84 +68,6 @@
               "ViewState": "AQIAABQAAAAAAAAAAAAcwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T08:13:34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Backend\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Backend\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Backend\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Backend\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T08:13:30.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Backend\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Backend\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Backend\\Models\\User.cs",
-              "RelativeToolTip": "Backend\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T08:13:09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Backend\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Backend\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Backend\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Backend\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T08:11:53.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UIManager.cs",
-              "DocumentMoniker": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Assets\\Scripts\\UI\\UIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
-              "ToolTip": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Assets\\Scripts\\UI\\UIManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAcwCYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T08:10:30.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NFTManager.cs",
-              "DocumentMoniker": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Assets\\Scripts\\NFTIntegration\\NFTManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\NFTIntegration\\NFTManager.cs",
-              "ToolTip": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Assets\\Scripts\\NFTIntegration\\NFTManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\NFTIntegration\\NFTManager.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAcwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T08:10:01.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Assets\\Scripts\\GameLogic\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameLogic\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\AkshayVm\\Desktop\\CryptoQuest\\CryptoQuest\\Assets\\Scripts\\GameLogic\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameLogic\\PlayerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T08:09:04.89Z",
               "EditorCaption": ""
             }
           ]
