@@ -1,7 +1,5 @@
-
-using Nethereum.Web3;
-using System.Diagnostics;
 using System.Threading.Tasks;
+using Nethereum.Web3;
 using UnityEngine;
 
 public class NFTManager : MonoBehaviour

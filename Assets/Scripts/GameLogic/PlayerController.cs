@@ -1,26 +1,17 @@
+using java.sql;
 using System.Numerics;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed = 5f;
-    private Rigidbody2D rb;
-    private Vector2 moveVelocity;
-
-    void Start()
-    {
-        rb = GetComponent<Rigidbody2D>();
-    }
+    public float speed = 5.0f;
 
     void Update()
     {
-        Vector2 moveInput = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-        moveVelocity = moveInput.normalized * moveSpeed;
-    }
+        float moveHorizontal = Input.GetAxis("Horizontal");
+        float moveVertical = Input.GetAxis("Vertical");
 
-    void FixedUpdate()
-    {
-        rb.MovePosition(rb.position + moveVelocity * Time.fixedDeltaTime);
+        Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
+        transform.Translate(movement * speed * Time.deltaTime, Space.World);
     }
 }
-
