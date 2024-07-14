@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CryptoQuest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f57cddd3964e319facdceab8024e36e87a03810")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17fc2a3df3e88d8a7ccdba5d1d5364c8dd930e35")]
 [assembly: System.Reflection.AssemblyProductAttribute("CryptoQuest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CryptoQuest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
