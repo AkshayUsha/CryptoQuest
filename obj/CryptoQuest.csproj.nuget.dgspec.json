@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Coinbase.Commerce": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
             "IKVM": {
               "target": "Package",
               "version": "[8.9.0, )"
